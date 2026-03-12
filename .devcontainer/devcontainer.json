@@ -1,0 +1,6 @@
+{
+  "name": "ERP Practice",
+  "build": { "dockerfile": "../Dockerfile" },
+  "forwardPorts": [8501],
+  "postStartCommand": "streamlit run main.py"
+}
