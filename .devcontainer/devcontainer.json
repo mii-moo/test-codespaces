@@ -4,7 +4,7 @@
   "forwardPorts": [8501],
   "portsAttributes": {
     "8501": {
-      "label": "★ここをクリックしてアプリを開く",
+      "label": "ブラウザを開く",
       "onAutoForward": "notify" 
     }
   },

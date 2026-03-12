@@ -1,20 +1,7 @@
 # 人間工学演習：ERP解析アプリ
 
-このリポジトリは、人間工学演習におけるERP（事象関連電位）データの解析を体験するための環境です。
-ブラウザだけで動作するため、Pythonのインストールは不要です。
-
-## 🚀 実行方法
-
-下のボタンをクリックすると、解析環境（GitHub Codespaces）が立ち上がります。
-
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/mii-moo/test-codespaces)
-
-### 起動した後の流れ
-1. 画面が立ち上がるまで1〜2分待ちます（初回のみ時間がかかります）。
-2. 画面下の **「PORTS」**（または「ポート」）タブを押してください。
-3. **「★ここをクリックしてアプリを開く」** の列にある、URL（地球儀マーク）をクリックしてください。
-
-## 演習内容
-- [ ] CSVファイルのアップロード
-- [ ] 波形のプレビュー
-- [ ] 簡易的な統計処理
+1. このボタンをクリック　[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/mii-moo/test-codespaces)
+2. 緑のボタン(Create Codespace)をクリック
+3. 起動を待つ（初回のみ1~2分）
+4. 右下に **「Open in Browser」** の通知が出たら、それをクリックしてください。
+   (もし通知が消えてしまったら、画面下の「PORTS」タブにある地球儀マークを押してください。)
