@@ -2,5 +2,11 @@
   "name": "ERP Practice",
   "build": { "dockerfile": "../Dockerfile" },
   "forwardPorts": [8501],
+  "portsAttributes": {
+    "8501": {
+      "label": "ERP App",
+      "onAutoForward": "openBrowser"
+    }
+  },
   "postStartCommand": "streamlit run main.py"
 }
