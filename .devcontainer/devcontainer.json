@@ -4,8 +4,8 @@
   "forwardPorts": [8501],
   "portsAttributes": {
     "8501": {
-      "label": "ERP App",
-      "onAutoForward": "openBrowser"
+      "label": "★ここをクリックしてアプリを開く",
+      "onAutoForward": "notify" 
     }
   },
   "postStartCommand": "streamlit run main.py"
